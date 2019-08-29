@@ -1,0 +1,205 @@
+{
+  "tiles" : [
+    {
+      "id": 1,
+      "projectName" : "Midterm Evaluation, Spring 2019 to Summer 2020",
+      "subjectName" : "401812 Anthropological Study of Religion",
+      "taskDueDate" : "03/15/2019",
+      "liveDateFrom": "08-08-2020",
+      "liveDateTo": "08-08-2020",
+      "tileType": "LIVE",
+      "isDetailsRemindersSelected": true,
+      "isResponseRateSelected": true,
+      "isNeedInstructorConsent": false,
+      "responseRate": {
+        "invited": "300",
+        "started": "0",
+        "responded": "0",
+        "optedOut": "0"
+      }
+    },
+    {
+      "id": 1,
+      "projectName" : "Midterm Evaluation, Spring 2019",
+      "subjectName" : "401812 Anthropological",
+      "taskDueDate" : "03/15/2019",
+      "liveDateFrom": "08-08-2020",
+      "liveDateTo": "08-08-2020",
+      "tileType": "COMPLETED",
+      "isDetailsRemindersSelected": false,
+      "isResponseRateSelected": true,
+      "isNeedInstructorConsent": false,
+      "responseRate": {
+        "invited": "300",
+        "started": "200",
+        "responded": "125",
+        "optedOut": "10"
+      }
+    },
+    {
+      "id": 1,
+      "projectName" : "Midterm Evaluation, Spring 2019",
+      "subjectName" : "401812 Anthropological Study of Religion For Those Who Really Like To Study Dumb People",
+      "taskDueDate" : "03/15/2019",
+      "liveDateFrom": "08-08-2020",
+      "liveDateTo": "08-08-2020",
+      "tileType": "OPTED_OUT",
+      "isDetailsRemindersSelected": true,
+      "isResponseRateSelected": false,
+      "isNeedInstructorConsent": false,
+      "responseRate": {
+        "invited": "300",
+        "started": "236",
+        "responded": "150",
+        "optedOut": "0"
+      }
+    },
+    {
+      "id": 1,
+      "projectName" : "Midterm Evaluation, Spring 2019",
+      "subjectName" : "401812 Anthropological Study of Religion",
+      "taskDueDate" : "03/15/2019",
+      "liveDateFrom": "08-08-2020",
+      "liveDateTo": "08-08-2020",
+      "tileType": "OPEN",
+      "instructions": "In case you would like to have early feedback from your class, you can create your midterm review here.",
+      "isDetailsRemindersSelected": false,
+      "isResponseRateSelected": false,
+      "isNeedInstructorConsent": false,
+      "responseRate": {
+        "invited": "300",
+        "started": "236",
+        "responded": "150",
+        "optedOut": "0"
+      }
+    },
+    {
+      "id": 1,
+      "projectName" : "Midterm Evaluation, Spring 2019",
+      "subjectName" : "401812 Anthropological Study of Religion",
+      "taskDueDate" : "03/15/2019",
+      "liveDateFrom": "08-08-2020",
+      "liveDateTo": "08-08-2020",
+      "tileType": "TODO",
+      "tasksNumber": 4,
+      "isDetailsRemindersSelected": false,
+      "isResponseRateSelected": false,
+      "responseRate": {
+        "invited": "300",
+        "started": "236",
+        "responded": "150",
+        "optedOut": "0"
+      }
+    },
+    {
+      "id": 1,
+      "projectName" : "Midterm Evaluation, Spring 2019",
+      "subjectName" : "401812 Anthropological Study of Religion",
+      "taskDueDate" : "03/15/2019",
+      "liveDateFrom": "08-08-2020",
+      "liveDateTo": "08-08-2020",
+      "tileType": "TODO",
+      "tasksNumber": 0,
+      "isDetailsRemindersSelected": false,
+      "isResponseRateSelected": false,
+      "isNeedInstructorConsent": true,
+      "responseRate": {
+        "invited": "300",
+        "started": "236",
+        "responded": "150",
+        "optedOut": "0"
+      }
+    },
+    {
+      "id": 1,
+      "projectName" : "Midterm Evaluation, Spring 2019",
+      "subjectName" : "401812 Anthropological Study of Religion",
+      "taskDueDate" : "03/15/2019",
+      "liveDateFrom": "08-08-2020",
+      "liveDateTo": "08-08-2020",
+      "tileType": "READY",
+      "isDetailsRemindersSelected": false,
+      "isResponseRateSelected": false,
+      "isNeedInstructorConsent": false,
+      "responseRate": {
+        "invited": "300",
+        "started": "236",
+        "responded": "150",
+        "optedOut": "0"
+      }
+    },
+    {
+      "id": 1,
+      "projectName" : "Midterm Evaluation, Spring 2019 to Summer 2020",
+      "subjectName" : "401812 Anthropological Study of Religion",
+      "taskDueDate" : "03/15/2019",
+      "liveDateFrom": "08-08-2020",
+      "liveDateTo": "08-08-2020",
+      "tileType": "LIVE",
+      "isDetailsRemindersSelected": true,
+      "isResponseRateSelected": true,
+      "isNeedInstructorConsent": false,
+      "responseRate": {
+        "invited": "300",
+        "started": "200",
+        "responded": "100",
+        "optedOut": "0"
+      }
+    },
+    {
+      "id": 1,
+      "projectName" : "Midterm Evaluation, Spring 2019",
+      "subjectName" : "401812 Anthropological Study of Religion",
+      "taskDueDate" : "03/15/2019",
+      "liveDateFrom": "08-08-2020",
+      "liveDateTo": "08-08-2020",
+      "tileType": "LIVE_PAUSED",
+      "isDetailsRemindersSelected": false,
+      "isResponseRateSelected": false,
+      "isNeedInstructorConsent": false,
+      "responseRate": {
+        "invited": "300",
+        "started": "200",
+        "responded": "125",
+        "optedOut": "10"
+      }
+    },
+    {
+      "id": 1,
+      "projectName" : "Midterm Evaluation, Spring 2019",
+      "subjectName" : "401812 Anthropological Study of Religion",
+      "taskDueDate" : "03/15/2019",
+      "liveDateFrom": "08-08-2020",
+      "liveDateTo": "08-08-2020",
+      "tileType": "LIVE_PAUSED",
+      "isDetailsRemindersSelected": false,
+      "isResponseRateSelected": true,
+      "isNeedInstructorConsent": false,
+      "responseRate": {
+        "invited": "300",
+        "started": "200",
+        "responded": "125",
+        "optedOut": "10"
+      }
+    },
+    {
+      "id": 1,
+      "projectName" : "Midterm Evaluation, Spring 2019",
+      "subjectName" : "401812 Anthropological Study of Religion",
+      "taskDueDate" : "03/15/2019",
+      "liveDateFrom": "08-08-2020",
+      "liveDateTo": "08-08-2020",
+      "tileType": "REPORT_READY",
+      "instructions": "Your report is ready! <br>You can download it now. Your report is ready! You can download it now. Your report is ready! You can download it now. Your report is ready! You can download it now. Your report is ready! You can download it now. Your report is ready! You can download it now. Your report is ready! You can download it now. ",
+      "isDetailsRemindersSelected": false,
+      "isResponseRateSelected": false,
+      "isNeedInstructorConsent": false,
+      "responseRate": {
+        "invited": "300",
+        "started": "0",
+        "responded": "0",
+        "optedOut": "0"
+      }
+    }
+  ]
+}
