@@ -1,13 +1,13 @@
 {
-  "tiles" : [
+  "tiles": [
     {
       "id": 1,
-      "projectName" : "Midterm Evaluation, Spring 2019 to Summer 2020",
-      "subjectName" : "401812 Anthropological Study of Religion",
-      "taskDueDate" : "03/15/2019",
+      "projectName": "Midterm Evaluation, Spring 2019 to Summer 2020",
+      "subjectName": "401812 Anthropological Study of Religion",
+      "tileDueDate": "03/15/2019",
       "liveDateFrom": "08-08-2020",
       "liveDateTo": "08-08-2020",
-      "tileType": 4,
+      "tileStatus": 4,
       "isDetailsRemindersSelected": true,
       "isResponseRateSelected": true,
       "isNeedInstructorConsent": false,
@@ -19,13 +19,13 @@
       }
     },
     {
-      "id": 1,
-      "projectName" : "Midterm Evaluation, Spring 2019",
-      "subjectName" : "401812 Anthropological",
-      "taskDueDate" : "03/15/2019",
+      "id": 2,
+      "projectName": "Midterm Evaluation, Spring 2019",
+      "subjectName": "401812 Anthropological",
+      "tileDueDate": "03/15/2019",
       "liveDateFrom": "08-08-2020",
       "liveDateTo": "08-08-2020",
-      "tileType": 6,
+      "tileStatus": 6,
       "isDetailsRemindersSelected": false,
       "isResponseRateSelected": true,
       "isNeedInstructorConsent": false,
@@ -37,13 +37,13 @@
       }
     },
     {
-      "id": 1,
-      "projectName" : "Midterm Evaluation, Spring 2019",
-      "subjectName" : "401812 Anthropological Study of Religion For Those Who Really Like To Study Dumb People",
-      "taskDueDate" : "03/15/2019",
+      "id": 3,
+      "projectName": "Midterm Evaluation, Spring 2019",
+      "subjectName": "401812 Anthropological Study of Religion For Those Who Really Like To Study Dumb People",
+      "tileDueDate": "03/15/2019",
       "liveDateFrom": "08-08-2020",
       "liveDateTo": "08-08-2020",
-      "tileType": 8,
+      "tileStatus": 8,
       "isDetailsRemindersSelected": true,
       "isResponseRateSelected": false,
       "isNeedInstructorConsent": false,
@@ -55,13 +55,13 @@
       }
     },
     {
-      "id": 1,
-      "projectName" : "Midterm Evaluation, Spring 2019",
-      "subjectName" : "401812 Anthropological Study of Religion",
-      "taskDueDate" : "03/15/2019",
+      "id": 4,
+      "projectName": "Midterm Evaluation, Spring 2019",
+      "subjectName": "401812 Anthropological Study of Religion",
+      "tileDueDate": "03/15/2019",
       "liveDateFrom": "08-08-2020",
       "liveDateTo": "08-08-2020",
-      "tileType": 1,
+      "tileStatus": 1,
       "instructions": "In case you would like to have early feedback from your class, you can create your midterm review here.",
       "isDetailsRemindersSelected": false,
       "isResponseRateSelected": false,
@@ -74,13 +74,13 @@
       }
     },
     {
-      "id": 1,
-      "projectName" : "Midterm Evaluation, Spring 2019",
-      "subjectName" : "401812 Anthropological Study of Religion",
-      "taskDueDate" : "03/15/2019",
+      "id": 5,
+      "projectName": "Midterm Evaluation, Spring 2019",
+      "subjectName": "401812 Anthropological Study of Religion",
+      "tileDueDate": "03/15/2019",
       "liveDateFrom": "08-08-2020",
       "liveDateTo": "08-08-2020",
-      "tileType": 2,
+      "tileStatus": 2,
       "tasksNumber": 4,
       "isDetailsRemindersSelected": false,
       "isResponseRateSelected": false,
@@ -92,13 +92,13 @@
       }
     },
     {
-      "id": 1,
-      "projectName" : "Midterm Evaluation, Spring 2019",
-      "subjectName" : "401812 Anthropological Study of Religion",
-      "taskDueDate" : "03/15/2019",
+      "id": 6,
+      "projectName": "Midterm Evaluation, Spring 2019",
+      "subjectName": "401812 Anthropological Study of Religion",
+      "tileDueDate": "03/15/2019",
       "liveDateFrom": "08-08-2020",
       "liveDateTo": "08-08-2020",
-      "tileType": 2,
+      "tileStatus": 2,
       "tasksNumber": 0,
       "isDetailsRemindersSelected": false,
       "isResponseRateSelected": false,
@@ -111,13 +111,13 @@
       }
     },
     {
-      "id": 1,
-      "projectName" : "Midterm Evaluation, Spring 2019",
-      "subjectName" : "401812 Anthropological Study of Religion",
-      "taskDueDate" : "03/15/2019",
+      "id": 7,
+      "projectName": "Midterm Evaluation, Spring 2019",
+      "subjectName": "401812 Anthropological Study of Religion",
+      "tileDueDate": "03/15/2019",
       "liveDateFrom": "08-08-2020",
       "liveDateTo": "08-08-2020",
-      "tileType": 3,
+      "tileStatus": 3,
       "isDetailsRemindersSelected": false,
       "isResponseRateSelected": false,
       "isNeedInstructorConsent": false,
@@ -129,13 +129,13 @@
       }
     },
     {
-      "id": 1,
-      "projectName" : "Midterm Evaluation, Spring 2019 to Summer 2020",
-      "subjectName" : "401812 Anthropological Study of Religion",
-      "taskDueDate" : "03/15/2019",
+      "id": 8,
+      "projectName": "Midterm Evaluation, Spring 2019 to Summer 2020",
+      "subjectName": "401812 Anthropological Study of Religion",
+      "tileDueDate": "03/15/2019",
       "liveDateFrom": "08-08-2020",
       "liveDateTo": "08-08-2020",
-      "tileType": 4,
+      "tileStatus": 4,
       "isDetailsRemindersSelected": true,
       "isResponseRateSelected": true,
       "isNeedInstructorConsent": false,
@@ -147,13 +147,13 @@
       }
     },
     {
-      "id": 1,
-      "projectName" : "Midterm Evaluation, Spring 2019",
-      "subjectName" : "401812 Anthropological Study of Religion",
-      "taskDueDate" : "03/15/2019",
+      "id": 9,
+      "projectName": "Midterm Evaluation, Spring 2019",
+      "subjectName": "401812 Anthropological Study of Religion",
+      "tileDueDate": "03/15/2019",
       "liveDateFrom": "08-08-2020",
       "liveDateTo": "08-08-2020",
-      "tileType": 5,
+      "tileStatus": 5,
       "isDetailsRemindersSelected": false,
       "isResponseRateSelected": false,
       "isNeedInstructorConsent": false,
@@ -165,13 +165,13 @@
       }
     },
     {
-      "id": 1,
-      "projectName" : "Midterm Evaluation, Spring 2019",
-      "subjectName" : "401812 Anthropological Study of Religion",
-      "taskDueDate" : "03/15/2019",
+      "id": 10,
+      "projectName": "Midterm Evaluation, Spring 2019",
+      "subjectName": "401812 Anthropological Study of Religion",
+      "tileDueDate": "03/15/2019",
       "liveDateFrom": "08-08-2020",
       "liveDateTo": "08-08-2020",
-      "tileType": 5,
+      "tileStatus": 5,
       "isDetailsRemindersSelected": false,
       "isResponseRateSelected": true,
       "isNeedInstructorConsent": false,
@@ -183,13 +183,13 @@
       }
     },
     {
-      "id": 1,
-      "projectName" : "Midterm Evaluation, Spring 2019",
-      "subjectName" : "401812 Anthropological Study of Religion",
-      "taskDueDate" : "03/15/2019",
+      "id": 11,
+      "projectName": "Midterm Evaluation, Spring 2019",
+      "subjectName": "401812 Anthropological Study of Religion",
+      "tileDueDate": "03/15/2019",
       "liveDateFrom": "08-08-2020",
       "liveDateTo": "08-08-2020",
-      "tileType": 7,
+      "tileStatus": 7,
       "instructions": "Your report is ready! <br>You can download it now. Your report is ready! You can download it now. Your report is ready! You can download it now. Your report is ready! You can download it now. Your report is ready! You can download it now. Your report is ready! You can download it now. Your report is ready! You can download it now. ",
       "isDetailsRemindersSelected": false,
       "isResponseRateSelected": false,
@@ -201,5 +201,219 @@
         "optedOut": "0"
       }
     }
-  ]
+  ],
+  "details": [
+    {
+      "id": "1",
+      "instructorTaskAvailable": true,
+      "questionTaskAvailable": true,
+      "questionTaskCompleted": true,
+      "raterTaskAvailable": true,
+      "raterTaskCompleted": false,
+      "taskDeadline": "12-08-2019 15:46",
+      "instructorList": [
+        {
+          "instructorName": "John Smith",
+          "isOptedIn": true
+        },
+        {
+          "instructorName": "Kevin Markson",
+          "isOptedIn": false
+        },
+        {
+          "instructorName": "Ali Farwaz",
+          "isOptedIn": false
+        },
+        {
+          "instructorName": "Samantha Rodrick",
+          "isOptedIn": false
+        },
+        {
+          "instructorName": "Oprah Winfrey",
+          "isOptedIn": true
+        }
+      ],
+      "materialOption": "online",
+      "timeSelect": "scheduled"
+    },
+    {
+      "id": "2",
+      "instructorTaskAvailable": true,
+      "questionTaskAvailable": true,
+      "questionTaskCompleted": true,
+      "raterTaskAvailable": false,
+      "raterTaskCompleted": false,
+      "taskDeadline": "12-08-2019 15:46",
+      "instructorList": [
+        {
+          "instructorName": "John Smith",
+          "isOptedIn": true
+        }
+      ],
+      "materialOption": "online",
+      "timeSelect": "scheduled"
+    },
+    {
+      "id": "3",
+      "instructorTaskAvailable": false,
+      "questionTaskAvailable": true,
+      "questionTaskCompleted": true,
+      "raterTaskAvailable": true,
+      "raterTaskCompleted": false,
+      "taskDeadline": "12-08-2019 15:46",
+      "instructorList": [
+        {
+          "instructorName": "John Smith",
+          "isOptedIn": true
+        }
+      ],
+      "materialOption": "paper",
+      "timeSelect": "scheduled"
+    },
+    {
+      "id": "4",
+      "instructorTaskAvailable": true,
+      "questionTaskAvailable": false,
+      "questionTaskCompleted": true,
+      "raterTaskAvailable": true,
+      "raterTaskCompleted": false,
+      "taskDeadline": "12-08-2019 15:46",
+      "instructorList": [
+        {
+          "instructorName": "John Smith",
+          "isOptedIn": true
+        }
+      ],
+      "materialOption": "online",
+      "timeSelect": "scheduled"
+    },
+    {
+      "id": "5",
+      "instructorTaskAvailable": true,
+      "questionTaskAvailable": true,
+      "questionTaskCompleted": false,
+      "raterTaskAvailable": true,
+      "raterTaskCompleted": false,
+      "taskDeadline": "12-08-2019 15:46",
+      "instructorList": [
+        {
+          "instructorName": "John Smith",
+          "isOptedIn": true
+        }
+      ],
+      "materialOption": null,
+      "timeSelect": "manual"
+    },
+    {
+      "id": "6",
+      "instructorTaskAvailable": false,
+      "questionTaskAvailable": false,
+      "questionTaskCompleted": true,
+      "raterTaskAvailable": true,
+      "raterTaskCompleted": false,
+      "taskDeadline": "12-08-2019 15:46",
+      "instructorList": [
+        {
+          "instructorName": "John Smith",
+          "isOptedIn": true
+        }
+      ],
+      "materialOption": "paper",
+      "timeSelect": "manual"
+    },
+    {
+      "id": "7",
+      "instructorTaskAvailable": true,
+      "questionTaskAvailable": false,
+      "questionTaskCompleted": false,
+      "raterTaskAvailable": true,
+      "raterTaskCompleted": false,
+      "taskDeadline": "12-08-2019 15:46",
+      "instructorList": [
+        {
+          "instructorName": "John Smith",
+          "isOptedIn": null
+        }
+      ],
+      "materialOption": "paper",
+      "timeSelect": false
+    },
+    {
+      "id": "8",
+      "instructorTaskAvailable": false,
+      "questionTaskAvailable": true,
+      "questionTaskCompleted": false,
+      "raterTaskAvailable": true,
+      "raterTaskCompleted": false,
+      "taskDeadline": "12-08-2019 15:46",
+      "instructorList": [
+        {
+          "instructorName": "John Smith",
+          "isOptedIn": true
+        }
+      ],
+      "materialOption": "online",
+      "timeSelect": "scheduled"
+    },
+    {
+      "id": "9",
+      "instructorTaskAvailable": true,
+      "questionTaskAvailable": true,
+      "questionTaskCompleted": true,
+      "raterTaskAvailable": true,
+      "raterTaskCompleted": false,
+      "taskDeadline": "12-08-2019 15:46",
+      "instructorList": [
+        {
+          "instructorName": "John Smith",
+          "isOptedIn": true
+        }
+      ],
+      "materialOption": "online",
+      "timeSelect": "scheduled"
+    },
+    {
+      "id": "10",
+      "instructorTaskAvailable": true,
+      "questionTaskAvailable": true,
+      "questionTaskCompleted": true,
+      "raterTaskAvailable": true,
+      "raterTaskCompleted": false,
+      "taskDeadline": "12-08-2019 15:46",
+      "instructorList": [
+        {
+          "instructorName": "John Smith",
+          "isOptedIn": true
+        }
+      ],
+      "materialOption": null,
+      "timeSelect": null
+    },
+    {
+      "id": "11",
+      "instructorTaskAvailable": true,
+      "questionTaskAvailable": true,
+      "questionTaskCompleted": true,
+      "raterTaskAvailable": true,
+      "raterTaskCompleted": false,
+      "taskDeadline": "12-08-2019 15:46",
+      "instructorList": [
+        {
+          "instructorName": "John Smith",
+          "isOptedIn": true
+        }
+      ],
+      "materialOption": "online",
+      "timeSelect": "manual"
+    }
+  ],
+  "getTileStatusCounters": {
+    "todo": 3,
+    "ready": 1,
+    "live": 4,
+    "completed": 1,
+    "reportReady": 1,
+    "optedOut": 1,
+    "all": 25
+  }
 }
